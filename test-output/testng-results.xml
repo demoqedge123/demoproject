@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="115387" started-at="2016-04-21T06:40:32Z" finished-at="2016-04-21T06:42:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="115387" started-at="2016-04-21T06:40:32Z" finished-at="2016-04-21T06:42:27Z">
+      <class name="com.orangehrm.tests.OrangeHRMKeywordDrivenTest">
+        <test-method status="PASS" signature="keywordDrivenTest()[pri:0, instance:com.orangehrm.tests.OrangeHRMKeywordDrivenTest@1abe675c]" name="keywordDrivenTest" duration-ms="115369" started-at="2016-04-21T12:10:32Z" finished-at="2016-04-21T12:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keywordDrivenTest -->
+      </class> <!-- com.orangehrm.tests.OrangeHRMKeywordDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
